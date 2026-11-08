@@ -1,7 +1,5 @@
----
 name: research-brief-check
 description: Checks  finance research briefs for unsupported claims, inaccurate citations, and overstated conclusions. Use when reviewing an AlphaSearch research brief or checking research accuracy before submission.
----
 
 # Research Brief Accuracy Checker
 ## Purpose
