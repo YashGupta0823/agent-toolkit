@@ -1,0 +1,4 @@
+# Tested with Python 3.13.3 on macOS (mcp 2.3.0, chromadb 1.5.9)
+mcp>=2.3,<3
+# Needed by AlphaSearch's database.py (ResearchDatabase), which this server imports
+chromadb>=1.5,<2

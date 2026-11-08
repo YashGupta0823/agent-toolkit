@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets / local env
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code machine-local settings (skills in .claude/skills/ are committed)
+.claude/settings.local.json
+
+# Local ChromaDB copy of the AlphaSearch corpus (machine-specific, ~11 MB)
+local_data/
+
+.venv/
+local_data/
+.mcp.json
+__pycache__/
